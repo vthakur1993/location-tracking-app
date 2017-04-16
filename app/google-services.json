@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "649639677144",
+    "firebase_url": "https://channelier-android.firebaseio.com",
+    "project_id": "channelier-android",
+    "storage_bucket": "channelier-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649639677144:android:1f0db1dad48943a5",
+        "android_client_info": {
+          "package_name": "com.channelier.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649639677144-7al2521ej07en09hcuhjthvd44a588jm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.channelier.beta",
+            "certificate_hash": "a339a894161dbb0f6740855a07d724081b7b46c3"
+          }
+        },
+        {
+          "client_id": "649639677144-ms4o2pq02t0ii202ssmmhdce9ivuutvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgb7AHPwedk9GrJAwaOU911tF7jny66A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649639677144-ms4o2pq02t0ii202ssmmhdce9ivuutvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649639677144:android:19c99622f591f452",
+        "android_client_info": {
+          "package_name": "com.channelier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649639677144-3rvlsv05e8d2hhjqjdogm1ciggsvjsed.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.channelier",
+            "certificate_hash": "b1f29fc84421fe9863da941c4681f711104ab381"
+          }
+        },
+        {
+          "client_id": "649639677144-ms4o2pq02t0ii202ssmmhdce9ivuutvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgb7AHPwedk9GrJAwaOU911tF7jny66A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649639677144-ms4o2pq02t0ii202ssmmhdce9ivuutvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649639677144:android:145e897167475219",
+        "android_client_info": {
+          "package_name": "channelier.locationtrackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649639677144-ms4o2pq02t0ii202ssmmhdce9ivuutvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRgb7AHPwedk9GrJAwaOU911tF7jny66A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
